@@ -70,40 +70,40 @@
 
 Начальное положение робота:
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image002.jpg) ![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image004.jpg)
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/1.png)
 
 Подъем первой конечности (CartesianTask):
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image006.jpg) ![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image008.jpg)
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/2.png) ![](https://github.com/abramenkonastya/rp_2025/blob/main/images/3.png)
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image010.jpg)
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/4.png)
 
 Подъем второй конечности (CartesianTask):
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image012.jpg) ![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image014.jpg)
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/5.png) ![](https://github.com/abramenkonastya/rp_2025/blob/main/images/6.png)
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image016.jpg) 
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/7.png) 
 
 Поступательное движение(CrabTask):
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image018.jpg) ![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image020.jpg)
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/8.png) ![](https://github.com/abramenkonastya/rp_2025/blob/main/images/9.png)
 
 Перенос третьей конечности (JointTask):
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image022.jpg) ![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image024.jpg)
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/10.png) ![](https://github.com/abramenkonastya/rp_2025/blob/main/images/11.png)
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image026.jpg)
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/12.png)
 
 Перенос четвертой конечности (JointTask):
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image028.jpg) ![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image030.jpg)
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/13.png) ![](https://github.com/abramenkonastya/rp_2025/blob/main/images/14.png)
 
 Поступательное движение(CrabTask):
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image032.jpg)
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/15.png)
 
 Итоговое положение робота:
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image034.jpg)
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/16.png)
 
-![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image036.jpg) ![](file:///C:/Users/kares/AppData/Local/Packages/oice_16_974fa576_32c1d314_3fbf/AC/Temp/msohtmlclip1/01/clip_image038.jpg)
+![](https://github.com/abramenkonastya/rp_2025/blob/main/images/17.png) ![](https://github.com/abramenkonastya/rp_2025/blob/main/images/18.png)
